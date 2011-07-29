@@ -22,7 +22,7 @@ The jargon [nclud](http://nclud.com) exclaims while playing Mario Kart.
 
 **n.** When the player in first place gets hit with a [Blue Shell](http://mariokart.wikia.com/wiki/Blue_Shell), recovers, and still retains his/her position, only because the following players were also effected by an item, most typically a [Lightning](http://mariokart.wikia.com/wiki/Lightning). A false _DeSandrometer_.
 
-+ **Coined by**: [Brandon Jones](http://twitter.com/btj) while [Dave](http://twitter.com/desandro) was on vacation, in an attempt to re-_brand_ _DeSandrometer_ with his own name. As Brandon is rarely that far ahead in first place, or in first place at all for that matter, it did not stick.
++ **Coined by**: [Brandon Jones](http://twitter.com/btj) while [Dave](http://twitter.com/desandro) was on vacation, in an attempt to re-_brand_ _DeSandrometer_ with his own name. It did not stick.
 
 ## Browser
 
@@ -73,7 +73,7 @@ The jargon [nclud](http://nclud.com) exclaims while playing Mario Kart.
 
 ## PAD
 
-**v.** Short for _pulling a DeSandro_. 
+**v.** Short for _pulling a DeSandro_.
 
 + **Coined by**: [Dave](http://twitter.com/desandro)
 + **Named after**: [Dave](http://twitter.com/desandro)
@@ -87,11 +87,15 @@ The jargon [nclud](http://nclud.com) exclaims while playing Mario Kart.
 + **Coined by**: [Dave](http://twitter.com/desandro)
 + **Named after**: [Dave](http://twitter.com/desandro)
 
+## pro move
+
+**n.** A highly technical maneuver that can only be performed by a highly skilled player. i.e. Avoiding getting hit by a [Red Shell](http://mariokart.wikia.com/wiki/Red_Shells) by making a tight turn around a corner.
+
 ## round
 
 **n.** A set of 10 consecutive races.
 
-## Singometer
+## Singerometer
 
 **n.** When a player is in 12th, uses two consecutive Bullets and does not gain any positions, so s/he is still is in 12th place.
 
@@ -116,6 +120,12 @@ The jargon [nclud](http://nclud.com) exclaims while playing Mario Kart.
 **Usage**: _It's straight-up summertime in here, what with all the flip-floppin' going on._
 
 + **Coined by**: [Martin](http://twitter.com/martymadrid)
+
+## Top Gun
+
+**n.** A _pro move_ where a player has a [Red Shell](http://mariokart.wikia.com/wiki/Red_Shells) trailing him/her, so s/he pulls quickly in front of another player so that the Red Shell hits the opposing player.
+
++ **Coined by**: [Alex](http://twitter.com/alexgiron)
 
 ## victory lap
 
