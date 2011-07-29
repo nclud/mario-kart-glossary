@@ -56,7 +56,7 @@ The jargon [nclud](http://nclud.com) exclaims while playing Mario Kart.
 
 **n.** A fictional component of the Wii that follows the actions of players and punishes them for misconduct. Retribution.
 
-**Usage**: _After you hit me the red, the karma chip must have kicked in so you got blue'd._
+**Usage**: _After you hit me with the red, the karma chip must have kicked in so you got blue'd._
 
 ## Jones
 
@@ -69,11 +69,20 @@ The jargon [nclud](http://nclud.com) exclaims while playing Mario Kart.
 
 ## Never-blues
 
-**n.** When a player is in first place for a long time, and no [Blue Shells](http://mariokart.wikia.com/wiki/Blue_Shell) are sent. This occurrence often happened for [Lauren](http://twitter.com/laurenmoon). A reference to [never-nudes](http://arresteddevelopment.wikia.com/wiki/Tobias_F%C3%BCnke), which in-of-itself is a reference to the short shorts Lauren had a part of her wardrobe.
+**n.** When a player is in first place for a long time, and no [Blue Shells](http://mariokart.wikia.com/wiki/Blue_Shell) are sent. This occurrence often happened for [Lauren](http://twitter.com/laurenmoon). A reference to [never-nudes](http://arresteddevelopment.wikia.com/wiki/Tobias_F%C3%BCnke), which in-of-itself is a reference to the short jean shorts (jorts) Lauren had a part of her wardrobe.
 
 ## PAD
 
 **v.** Short for _pulling a DeSandro_. 
+
++ **Coined by**: [Dave](http://twitter.com/desandro)
++ **Named after**: [Dave](http://twitter.com/desandro)
+
+## Pulling a DeSandro
+
+**v.** Intentionally stopping, driving slow, or in the wrong direction in to stay near the back of the pack in order to obtain two good items back to back (such as a [Starman](http://mariokart.wikia.com/wiki/Starman) and a [Golden Mushroom](http://mariokart.wikia.com/wiki/Golden_Mushroom)), then using these items to win the race, typically on the last lap.
+
+**notes:** This is a controversial maneuver which some consider cheating, though multiple players have adopted this complex strategy.
 
 + **Coined by**: [Dave](http://twitter.com/desandro)
 + **Named after**: [Dave](http://twitter.com/desandro)
@@ -90,11 +99,15 @@ The jargon [nclud](http://nclud.com) exclaims while playing Mario Kart.
 
 ## Skynet
 
-**n.** The belief that the artificially intelligence behind Mario Kart is much smarter than we imagine. CPU characters will perform incredible acts, almost as if they are aware of the humans they are playing against. i.e. CPU character cutting right in front of you and shooting a green backwards.
+**n.** The belief that the artificial intelligence behind Mario Kart is much smarter than we imagine, similar to the [Skynet](http://en.wikipedia.org/wiki/Skynet_\(Terminator\)) computer system from the [Terminator](http://en.wikipedia.org/wiki/Terminator_\(franchise\)) movie series. CPU characters will perform incredible acts, almost as if they are aware of the humans they are playing against. i.e. CPU character cutting right in front of you and shooting a green backwards.
+
+**notes:** The belief in Skynet is not universally held. [Brandon Jones](http://twitter.com/btj) is a strong opponent to the idea.
 
 ## spray
 
 **v., n.** Rapidly firing 3 [Green Shells](http://mariokart.wikia.com/wiki/Green_Shells).
+
+**notes:** Less commonly, throwing multiple [Banana Peels](http://mariokart.wikia.com/wiki/Banana_Peel).
 
 ## summertime
 
