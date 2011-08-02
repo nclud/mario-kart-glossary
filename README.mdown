@@ -56,6 +56,24 @@ The jargon [nclud](http://nclud.com) exclaims while playing Mario Kart.
 
 **n.** An [Item Box](http://mariokart.wikia.com/wiki/Item_Box)
 
+## Got 'em
+
+**exclamation** When a player successfully attacks another player with an item.
+
++ **Coined by**: [Martin](http://twitter.com/martymadrid)
+
+## half-point
+
+**n.** A fractional point awarded in jest to a player who places 12th place in a race, yet still crosses the finish line.
+
+**notes:** The accrued half-points have never actually been factored into a player's final score.
+
+## How's the weather back there?
+
+**exclamation** Said by a player who has just recently passed another player in an attempt to demoralize them.
+
++ **Coined by**: [Alex](http://twitter.com/alexgiron)
+
 ## karma chip
 
 **n.** A fictional component of the Wii that follows the actions of players and punishes them for misconduct. Retribution.
@@ -138,4 +156,12 @@ The jargon [nclud](http://nclud.com) exclaims while playing Mario Kart.
 **n.** During the course of a _round_, when a player chooses to drive in the opposite direction, just to mess with everybody. Typically taken at the end of the _round_ if that player has enough points so that s/he can get 0 points for the race and still retain 1st place overall.
 
 + **Coined by**: [Dave](http://twitter.com/desandro)
+
+## Way in first
+
+**exclamation** Said by a player who has just recently moved into first place to disparage the other, obviously inferior, players.
+
+**notes:** Less commonly, "way in last", or "way in [3rd, 7th, etc]" are sarcastically exclaimed.
+
++ **Coined by**: [Alex](http://twitter.com/alexgiron)
 
