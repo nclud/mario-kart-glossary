@@ -52,6 +52,10 @@ The jargon [nclud](http://nclud.com) exclaims while playing Mario Kart.
 + **Coined by**: [Dave](http://twitter.com/desandro)
 + **Named after**: [Dave](http://twitter.com/desandro)
 
+## diamond
+
+**n.** An [Item Box](http://mariokart.wikia.com/wiki/Item_Box)
+
 ## karma chip
 
 **n.** A fictional component of the Wii that follows the actions of players and punishes them for misconduct. Retribution.
